@@ -2,7 +2,8 @@ Red [
 	Author: 	"Toomas Vooglaid"
 	file: 		"%regex.red"
 	Purpose: 	{Simple regex to parse converter}
-  Tabs: 4
+  	Tabs: 4
+	Developement:	https://github.com/toomasv/regex/blob/master/regex.red
 ]
 
 re-ctx: context [
